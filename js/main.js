@@ -53,4 +53,5 @@ map = new google.maps.Map($('#map-canvas')[0], myOptions);
 map.mapTypes.set('map_style', styledMap);
 map.setMapTypeId('map_style');
 marker.setMap(map);
-arker.setMap(map);
+$("#nav").naver();
+rker.setMap(map);
